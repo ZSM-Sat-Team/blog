@@ -65,7 +65,7 @@ words = "Wörter"
 
 [languages.de.params.logo]
 logoText = "ZSM-Sat Team"
-logoHomeLink = "/"
+logoHomeLink = "/de"
 
 [languages.de.menu]
 
@@ -98,7 +98,7 @@ words = "sł."
 
 [languages.pl.params.logo]
 logoText = "ZSM-Sat Team"
-logoHomeLink = "/"
+logoHomeLink = "/pl"
 
 [languages.pl.menu]
 
