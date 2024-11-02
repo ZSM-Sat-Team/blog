@@ -1,0 +1,142 @@
+baseURL = "https://blog.nimplex.xyz/"
+languageCode = "pl-PL"
+theme = "terminal"
+paginate = 5
+
+[params]
+# dir name of your main content (default is `content/posts`).
+# the list of set content will show up on your index page (baseurl).
+contentTypeName = "posts"
+
+# if you set this to 0, only submenu trigger will be visible
+showMenuItems = 2
+
+# show selector to switch language
+showLanguageSelector = true 
+
+# set theme to full screen width
+fullWidthTheme = false
+
+# center theme with default width
+centerTheme = true
+
+# if your resource directory contains an image called `cover.(jpg|png|webp)`,
+# then the file will be used as a cover automatically.
+# With this option you don't have to put the `cover` param in a front-matter.
+autoCover = false 
+
+# set post to show the last updated
+# If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
+showLastUpdated = false
+
+# Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
+# updatedDatePrefix = "Updated"
+
+# whether to show a page's estimated reading time
+readingTime = true
+
+# whether to show a table of contents
+# can be overridden in a page's front-matter
+Toc = false # default
+
+defaultContentLanguageInSubdir = true
+
+# DEUTSCH
+[languages.de]
+languageCode = "de-DE"
+languageName = "🇩🇪 Deutsch"
+title = "ZSM-Sat Team"
+weight = 3
+
+[languages.de.params]
+subtitle = ""
+owner = ""
+keywords = ""
+copyright = ""
+menuMore = "Mehr"
+readMore = "Mehr"
+readOtherPosts = "Lese andere Posts"
+newerPosts = "Neue Posts"
+olderPosts = "Alte Posts"
+missingContentMessage = "Seite nicht gefunden..."
+missingBackButtonLabel = "Zurück zur Hauptseite"
+minuteReadingTime = "Lesezeit (min)"
+words = "Wörter"
+
+[languages.de.params.logo]
+logoText = "ZSM-Sat Team"
+logoHomeLink = "/"
+
+[languages.de.menu]
+
+[[languages.de.menu.main]]
+identifier = "about"
+name = "Über uns"
+url = "/de/about"
+
+# POLISH
+[languages.pl]
+languageCode = "pl-PL"
+languageName = "🇵🇱 Polski"
+title = "ZSM-Sat Team"
+weight = 1
+
+[languages.pl.params]
+subtitle = ""
+owner = ""
+keywords = ""
+copyright = ""
+menuMore = "Pokaż więcej"
+readMore = "Czytaj więcej"
+readOtherPosts = "Więcej wpisów"
+newerPosts = "Nowsze wpisy"
+olderPosts = "Starsze wpisy"
+missingContentMessage = "Nie znaleziono strony..."
+missingBackButtonLabel = "Wróć do strony głównej"
+minuteReadingTime = "min."
+words = "sł."
+
+[languages.pl.params.logo]
+logoText = "ZSM-Sat Team"
+logoHomeLink = "/"
+
+[languages.pl.menu]
+
+[[languages.pl.menu.main]]
+identifier = "about"
+name = "O nas"
+url = "/pl/about"
+
+# ENGLISH
+
+[languages.en]
+languageCode = "en-US"
+languageName = "🇺🇸 English"
+title = "ZSM-Sat Team"
+weight = 2
+
+[languages.en.params]
+subtitle = ""
+owner = ""
+keywords = ""
+copyright = ""
+menuMore = "Show more"
+readMore = "Read more"
+readOtherPosts = "Read other posts"
+newerPosts = "Newer posts"
+olderPosts = "Older posts"
+missingContentMessage = "Page not found..."
+missingBackButtonLabel = "Back to home page"
+minuteReadingTime = "min read"
+words = "words"
+
+[languages.en.params.logo]
+logoText = "ZSM-Sat Team"
+logoHomeLink = "/"
+
+[languages.en.menu]
+
+[[languages.en.menu.main]]
+identifier = "about"
+name = "About us"
+url = "/about"
