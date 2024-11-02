@@ -3,6 +3,9 @@ languageCode = "pl-PL"
 theme = "terminal"
 paginate = 5
 
+defaultContentLanguage = "pl"
+defaultContentLanguageInSubdir = true
+
 [params]
 # dir name of your main content (default is `content/posts`).
 # the list of set content will show up on your index page (baseurl).
@@ -132,11 +135,11 @@ words = "words"
 
 [languages.en.params.logo]
 logoText = "ZSM-Sat Team"
-logoHomeLink = "/"
+logoHomeLink = "/en"
 
 [languages.en.menu]
 
 [[languages.en.menu.main]]
 identifier = "about"
 name = "About us"
-url = "/about"
+url = "/en/about"
