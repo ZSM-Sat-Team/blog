@@ -44,5 +44,5 @@ For your own use case, refer to Hugo's [deployment documentation](https://gohugo
 
 Thanks to [mikr.us](https://mikr.us) for providing free hosting for our blog.
 
-<a href="https://mikr.us"><img height="200" src="https://github.com/user-attachments/assets/c76ba45d-ff8e-4b39-afc6-465ab86bc688" /></a>
+<a href="https://mikr.us"><img src="./static/mikrus-sponsor.png" /></a>
 

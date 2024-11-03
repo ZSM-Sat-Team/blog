@@ -1,7 +1,7 @@
 baseURL = "https://blog.nimplex.xyz/"
 languageCode = "pl-PL"
 theme = "terminal"
-paginate = 5
+pagerSize = 5
 
 defaultContentLanguage = "pl"
 defaultContentLanguageInSubdir = true
@@ -42,6 +42,10 @@ readingTime = true
 # can be overridden in a page's front-matter
 Toc = false # default
 
+[[params.sponsors]]
+url = "https://mikr.us"
+cover = "/mikrus-sponsor.png"
+
 # DEUTSCH
 [languages.de]
 languageCode = "de-DE"
@@ -63,6 +67,7 @@ missingContentMessage = "Seite nicht gefunden..."
 missingBackButtonLabel = "Zurück zur Hauptseite"
 minuteReadingTime = "Lesezeit (min)"
 words = "Wörter"
+sponsorsTitle = "Sponsoren"
 
 [languages.de.params.logo]
 logoText = "ZSM-Sat Team"
@@ -96,6 +101,7 @@ missingContentMessage = "Nie znaleziono strony..."
 missingBackButtonLabel = "Wróć do strony głównej"
 minuteReadingTime = "min."
 words = "sł."
+sponsorsTitle = "Sponsorzy"
 
 [languages.pl.params.logo]
 logoText = "ZSM-Sat Team"
@@ -130,6 +136,7 @@ missingContentMessage = "Page not found..."
 missingBackButtonLabel = "Back to home page"
 minuteReadingTime = "min read"
 words = "words"
+sponsorsTitle = "Sponsors"
 
 [languages.en.params.logo]
 logoText = "ZSM-Sat Team"
