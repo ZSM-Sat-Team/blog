@@ -29,7 +29,7 @@ hugo new content content/posts/my-new-post.md
 ```
 
 4. **Build the site**:
-   
+
 ```bash
 hugo
 ```
