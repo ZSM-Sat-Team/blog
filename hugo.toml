@@ -148,3 +148,6 @@ logoHomeLink = "/en"
 identifier = "about"
 name = "About us"
 url = "/en/about"
+
+[markup.goldmark.renderer]
+unsafe = true
