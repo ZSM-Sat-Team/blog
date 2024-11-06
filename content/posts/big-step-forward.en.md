@@ -1,0 +1,11 @@
++++
+title = "Big step forward - we are moving to the next stage of CanSat 2025!"
+date = "2024-11-06T21:11:29+01:00"
+author = "ZSM-Sat Members"
++++
+
+We're thrilled to share that our team has made it to the next stage of the CanSat 2025 competition! Our project is all about building a [mini-satellite](https://en.wikipedia.org/wiki/CanSat) that will be launched to an altitude of about 1.5-2.5 km using a small rocket. On top of the usual CanSat tasks, our secondary mission is to send live video from the satellite and stream it on different platforms. That way, we can track the flight and landing in real time.
+
+We recently had a series of introductory meetings on the details of the competition, which gave us a nice boost of motivation to keep moving forward. In the coming weeks, we're planning to do some initial parachute tests. We've also designed and are printing the satellite's housing prototype.
+
+We have a lot of challenges ahead, but we're excited and ready to keep working. We're sharing our progress on [Facebook](https://www.facebook.com/profile.php?id=100064050254272), so consider joining us there.
