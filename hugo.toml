@@ -6,7 +6,12 @@ pagerSize = 5
 defaultContentLanguage = "pl"
 defaultContentLanguageInSubdir = true
 
+summaryLength = 20
+showFullContent = false
+
 [params]
+math = true
+
 # dir name of your main content (default is `content/posts`).
 # the list of set content will show up on your index page (baseurl).
 contentTypeName = "posts"
@@ -26,7 +31,7 @@ centerTheme = true
 # if your resource directory contains an image called `cover.(jpg|png|webp)`,
 # then the file will be used as a cover automatically.
 # With this option you don't have to put the `cover` param in a front-matter.
-autoCover = false 
+autoCover = false
 
 # set post to show the last updated
 # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated

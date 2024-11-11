@@ -6,7 +6,7 @@ author = "ZSM-Sat Mitglieder"
 
 Wir freuen uns, mitzuteilen, dass unser Team es erfolgreich in die nächste Stufe des CanSat-Wettbewerbs geschafft hat! Unser Projekt dreht sich um den Bau eines [Mini-Satelliten](https://de.wikipedia.org/wiki/CanSat), der mithilfe einer kleinen Rakete auf eine Höhe von 1,5km bis 2,5km aufgeschossen wird. Neben den Cansat-Hauptaufgaben haben wir auch unsere sekundäre Mission, die darin besteht, eine Live-Übertragung vom Satelliten durchzuführen und es auf verschiedenen Plattformen zu streamen, sodass wir den Flug und die Landung in Echtzeit verfolgen können.
 
-<span style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-evenly; align-content: center; gap: 10px;">
+<span class="figure-container">
     {{< figure src="/posts/1-big-step-forward/pokrywka-1.png" position="center" title="Deckel" caption="Deckel" style="height: 300px" >}}
     {{< figure src="/posts/1-big-step-forward/pucha-1.png" position="center" title="Dose" caption="Dose" style="height: 300px" >}}
     {{< figure src="/posts/1-big-step-forward/cale-1.png" position="center" title="Zusammengebaut" caption="Zusammengebaut" style="height: 300px" >}}

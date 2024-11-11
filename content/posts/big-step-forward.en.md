@@ -8,7 +8,7 @@ We're thrilled to share that our team has made it to the next stage of the CanSa
 
 We recently had a series of introductory meetings on the details of the competition, which gave us a nice boost of motivation to keep moving forward. In the coming weeks, we're planning to do some initial parachute tests. We've also designed and are printing the satellite's housing prototype.
 
-<span style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-evenly; align-content: center; gap: 10px;">
+<span class="figure-container">
     {{< figure src="/posts/1-big-step-forward/pokrywka-1.png" position="center" title="Cap" caption="Cap" style="height: 300px" >}}
     {{< figure src="/posts/1-big-step-forward/pucha-1.png" position="center" title="Can" caption="Can" style="height: 300px" >}}
     {{< figure src="/posts/1-big-step-forward/cale-1.png" position="center" title="Fully assembled" caption="Fully assembled" style="height: 300px" >}}

@@ -8,7 +8,7 @@ Z radością informujemy, że nasz zespół przeszedł do kolejnego etapu konkur
 
 Niedawno zakończyliśmy serię spotkań wprowadzających w szczegóły konkursu, co bardzo zmotywowało nas do podjęcia do dalszych działań. W niedalekiej przyszłości planujemy przeprowadzić wstępne testy spadochronowe. Ponadto, pierwszy prototyp obudowy satelity został już zaprojektowany i jest w trakcie drukowania.
 
-<span style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-evenly; align-content: center; gap: 10px;">
+<span class="figure-container">
     {{< figure src="/posts/1-big-step-forward/pokrywka-1.png" position="center" title="Pokrywka" caption="Pokrywka" style="height: 300px" >}}
     {{< figure src="/posts/1-big-step-forward/pucha-1.png" position="center" title="Puszka" caption="Puszka" style="height: 300px" >}}
     {{< figure src="/posts/1-big-step-forward/cale-1.png" position="center" title="Całość" caption="Całość" style="height: 300px" >}}
