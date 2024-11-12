@@ -4,7 +4,7 @@ date = "2024-11-11T18:40:25+01:00"
 author = "Przemysław Szafraniec"
 +++
 
-W ubiegłym tygodniu ogłosiliśmy, że jesteśmy w trakcie drukowania pierwszego prototypu naszego minisatelity. Niestety nie wszystko wyszło zgodnie z planem 😒
+W ubiegłym tygodniu ogłosiliśmy, że jesteśmy w trakcie drukowania pierwszego prototypu naszego mini-satelity. Niestety nie wszystko wyszło zgodnie z planem 😒
 
 Okazało się, że pierwsza wersja miała kilka wad: nieodpowiednie odstępy między otworami na śruby (nasza płytka drukowana nie zmieściłaby się), zbyt grube ścianki (aż 5 mm!) oraz brak wystarczającej przestrzeni na montaż spadochronu (całość nie zmieściłaby się w [regulaminowych](https://esero.kopernik.org.pl/wp-content/uploads/2024/07/Regulamin-Konkursu-CanSat-2025.pdf#page=9) 115 mm).
 
